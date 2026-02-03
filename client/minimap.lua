@@ -1,6 +1,5 @@
 local function setupMapZooms()
     for _, lvl in ipairs(config.zoomLevels) do
-        print(lvl.index, lvl.zoomScale, lvl.zoomSpeed, lvl.scrollSpeed, lvl.tilesX, lvl.tilesY)
         SetMapZoomDataLevel(lvl.index, lvl.zoomScale, lvl.zoomSpeed, lvl.scrollSpeed, lvl.tilesX, lvl.tilesY)
     end
 end
