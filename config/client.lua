@@ -24,6 +24,13 @@ config.mods = {
             { id = '3_2', mod = 'mnr1', row = 3, col = 2, alpha = 100 },
         },
     },
+    {
+        resources = { 'mnr_cayo', 'tstudio_cayo_bridge' },
+        compatible = { 'atlas' },
+        mods = {
+            { id = '2_1', mod = 'tstudio1', row = 2, col = 1, alpha = 100 },
+        },
+    },
 }
 
 config.radarZoom = 1000
