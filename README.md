@@ -19,7 +19,7 @@ A rework of the V2 of the famous script ExtraMapTiles made only to simplify the 
 
 ## LICENSES
 | Part                  | Creator (GitHub/Cfx)                                              | License                                                                           |
-|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|-----------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | Edits & Rework        | [IlMelons (2026)](https://github.com/IlMelons)                    | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)              |
 | Original Script       | [AlexLicuriceanu (2026)](https://github.com/AlexLicuriceanu)      | [MIT](https://github.com/AlexLicuriceanu/extra-map-tiles-v2/blob/main/LICENSE)    |
 | Oulsen textures       | [Oulsen (2021)](https://github.com/Oulsen)                        | [MIT](https://github.com/Oulsen/oulsen_satmap/blob/main/LICENSE)                  |
