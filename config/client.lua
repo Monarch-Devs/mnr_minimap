@@ -32,6 +32,13 @@ config.mods = {
         },
     },
     {
+        resources = { 'tstudio_legionsquare', 'tstudio_pearls_resort' },
+        compatible = { 'atlas' },
+        mods = {
+            { id = '2_0', mod = 'tstudio5', row = 2, col = 0, alpha = 100 },
+        },
+    },
+    {
         resources = { 'tstudio_missionrow_park', 'tstudio_pearls_resort' },
         compatible = { 'atlas' },
         mods = {
