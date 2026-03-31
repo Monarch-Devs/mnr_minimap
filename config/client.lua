@@ -25,10 +25,10 @@ config.mods = {
         },
     },
     {
-        resources = { 'mnr_cayo', 'tstudio_cayo_bridge' },
+        resources = { 'tstudio_pearls_resort' },
         compatible = { 'atlas' },
         mods = {
-            { id = '2_1', mod = 'tstudio1', row = 2, col = 1, alpha = 100 },
+            { id = '2_0', mod = 'tstudio3', row = 2, col = 0, alpha = 100 },
         },
     },
     {
@@ -39,10 +39,17 @@ config.mods = {
         },
     },
     {
-        resources = { 'tstudio_pearls_resort' },
+        resources = { 'mnr_cayo', 'tstudio_cayo_bridge' },
         compatible = { 'atlas' },
         mods = {
-            { id = '2_0', mod = 'tstudio3', row = 2, col = 0, alpha = 100 },
+            { id = '2_1', mod = 'tstudio1', row = 2, col = 1, alpha = 100 },
+        },
+    },
+    {
+        resources = { 'tstudio_missionrow_park' },
+        compatible = { 'atlas' },
+        mods = {
+            { id = '2_1', mod = 'tstudio2', row = 2, col = 1, alpha = 100 },
         },
     },
 }
