@@ -38,6 +38,13 @@ config.mods = {
             { id = '2_0', mod = 'tstudio7', row = 2, col = 0, alpha = 100 },
         },
     },
+    {
+        resources = { 'tstudio_pearls_resort' },
+        compatible = { 'atlas' },
+        mods = {
+            { id = '2_0', mod = 'tstudio3', row = 2, col = 0, alpha = 100 },
+        },
+    },
 }
 
 config.radarZoom = 1000
