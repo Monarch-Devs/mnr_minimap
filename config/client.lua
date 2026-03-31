@@ -56,7 +56,7 @@ config.mods = {
         resources = { 'mnr_cayo', 'tstudio_missionrow_park' },
         compatible = { 'atlas' },
         mods = {
-            { id = '2_1', mod = 'tstudio2', row = 2, col = 1, alpha = 100 },
+            { id = '2_1', mod = 'tstudio3', row = 2, col = 1, alpha = 100 },
         },
     },
 }
