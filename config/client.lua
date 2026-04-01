@@ -32,13 +32,10 @@ config.mods = {
         },
     },
     {
-        resources = { 'mnr_cayo' },
+        resources = { 'tstudio_alamo_island', 'tstudio_canyon_bridge' },
         compatible = { 'atlas' },
         mods = {
-            { id = '2_1', mod = 'mnr1', row = 2, col = 1, alpha = 100 },
-            { id = '2_2', mod = 'mnr1', row = 2, col = 2, alpha = 100 },
-            { id = '3_1', mod = 'mnr1', row = 3, col = 1, alpha = 100 },
-            { id = '3_2', mod = 'mnr1', row = 3, col = 2, alpha = 100 },
+            { id = '0_0', mod = 'tstudio3', row = 0, col = 0, alpha = 100 },
         },
     },
     {
@@ -88,6 +85,16 @@ config.mods = {
         compatible = { 'atlas' },
         mods = {
             { id = '2_0', mod = 'tstudio7', row = 2, col = 0, alpha = 100 },
+        },
+    },
+    {
+        resources = { 'mnr_cayo' },
+        compatible = { 'atlas' },
+        mods = {
+            { id = '2_1', mod = 'mnr1', row = 2, col = 1, alpha = 100 },
+            { id = '2_2', mod = 'mnr1', row = 2, col = 2, alpha = 100 },
+            { id = '3_1', mod = 'mnr1', row = 3, col = 1, alpha = 100 },
+            { id = '3_2', mod = 'mnr1', row = 3, col = 2, alpha = 100 },
         },
     },
     {
