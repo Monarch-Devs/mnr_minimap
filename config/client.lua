@@ -15,6 +15,16 @@ config.tiles = {
 
 config.mods = {
     {
+        resources = { 'tstudio_alamo_island' },
+        compatible = { 'atlas' },
+        mods = {
+            { id = '0_0', mod = 'tstudio1', row = 0, col = 0, alpha = 100 },
+            { id = '0_1', mod = 'tstudio1', row = 0, col = 1, alpha = 100 },
+            { id = '1_0', mod = 'tstudio1', row = 1, col = 0, alpha = 100 },
+            { id = '1_1', mod = 'tstudio1', row = 1, col = 1, alpha = 100 },
+        },
+    },
+    {
         resources = { 'mnr_cayo' },
         compatible = { 'atlas' },
         mods = {
