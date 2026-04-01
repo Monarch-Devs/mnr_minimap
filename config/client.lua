@@ -25,6 +25,13 @@ config.mods = {
         },
     },
     {
+        resources = { 'tstudio_canyon_bridge' },
+        compatible = { 'atlas' },
+        mods = {
+            { id = '0_0', mod = 'tstudio2', row = 0, col = 0, alpha = 100 },
+        },
+    },
+    {
         resources = { 'mnr_cayo' },
         compatible = { 'atlas' },
         mods = {
